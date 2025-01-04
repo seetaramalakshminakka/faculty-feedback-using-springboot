@@ -58,7 +58,7 @@ The login page provides two options:
 - Admin Login
 - Student Login
 
-![Login Page](image/loginpage.jpg)
+![Login Page](loginpage.jpg)
 
 ### 2. Admin Dashboard
 Upon successful login as an admin, the dashboard displays options to manage faculty and view performance.
