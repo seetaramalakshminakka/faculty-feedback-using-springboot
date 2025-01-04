@@ -63,7 +63,7 @@ The login page provides two options:
 ### 2. Admin Dashboard
 Upon successful login as an admin, the dashboard displays options to manage faculty and view performance.
 
-![Admin Dashboard](image/facultydashboard.jpg)
+![Admin Dashboard](facultydashboard.jpg)
 
 ### 3. Add/Modify/Delete Faculty
 Admin can add, modify, or delete faculty details using the provided forms.
@@ -71,13 +71,13 @@ Admin can add, modify, or delete faculty details using the provided forms.
 ### 4. View Faculty Performance
 Admins can view a performance bar graph indicating the feedback received for each faculty member.
 
-![Faculty Performance](image/output.jpg)
+![Faculty Performance](output.jpg)
 
 ### 5. Student Feedback Form
 Students can select a faculty member and provide feedback using an intuitive form.
 
-![Student Feedback Form](image/feedback.jpg)
-![Student Feedback Form](image/feedback1.jpg)
+![Student Feedback Form](feedback.jpg)
+![Student Feedback Form](feedback1.jpg)
 
 ### 6. Feedback Submission Confirmation
 After submitting feedback, a confirmation message is displayed.
